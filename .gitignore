@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/campusbite.db
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
